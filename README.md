@@ -30,11 +30,11 @@ This is a backend RESTful API for managing product orders, built with **FastAPI*
 
 ## 🚀 Getting Started
 
-### ⚙️ 1. Clone the Repository
+###  1. Clone the Repository
 
-git clone https://github.com/yourusername/order-management-api.git
+git clone https://github.com/prathiksharpai/order-management-service.git
 
-cd order-management-api
+cd order-management-service
 
 ###  2. Local Setup 
 
@@ -46,11 +46,11 @@ source venv/bin/activate
 
 pip install -r requirements.txt
 
-### Run MySQL locally (or use MySQL Workbench)
+###  3.Run MySQL locally (or use MySQL Workbench)
 
 CREATE DATABASE orders_db;
 
-### Run FastAPI
+###  4.Run FastAPI
 
 uvicorn app.main:app --reload
 
