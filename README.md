@@ -105,9 +105,7 @@ pytest tests/test_main.py
 
 ---
 
----
-
 ## 🙋‍♀️ Author
-Built by Prathiksha Pai[https://github.com/prathiksharpai]
+Built by [Prathiksha Pai ][https://github.com/prathiksharpai]
 Open to feedback and contributions!
 
