@@ -92,6 +92,7 @@ Body:
 {
   "status": "Shipped"
 }
+
 ### 🔹 Delete Order
 
 DELETE /orders/{order_id}
@@ -101,3 +102,12 @@ DELETE /orders/{order_id}
 Use a test DB or SQLite for tests.
 
 pytest tests/test_main.py
+
+---
+
+---
+
+## 🙋‍♀️ Author
+Built by Prathiksha Pai[https://github.com/prathiksharpai]
+Open to feedback and contributions!
+
